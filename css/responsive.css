@@ -1,7 +1,7 @@
 @media only screen and (max-width: 1100px) {
   .wrapper {width: 90%; }
  
-  #social {
+  #social a{
   position: absolute;
   top: 82px;
   right: 4px;
